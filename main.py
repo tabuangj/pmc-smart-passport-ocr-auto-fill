@@ -1,4 +1,3 @@
-# main.py
 import sys, json
 from pathlib import Path
 from PySide6.QtWidgets import (
@@ -37,7 +36,8 @@ class DropArea(QLabel):
             QLabel:hover { border-color: #666; }
         """)
     def dragEnterEvent(self, e):
-        if not e.mimeData().hasUrls(): e.ignore(); return
+        if not e.mimeData().hasUrls():
+            e.ignore(); return
         for url in e.mimeData().urls():
             if Path(url.toLocalFile()).suffix.lower() in ALLOWED_EXT:
                 e.acceptProposedAction(); return
@@ -75,24 +75,40 @@ class MainWindow(QMainWindow):
         self.drop.fileDropped.connect(self.start_ocr)
         self.btn_browse.clicked.connect(self.browse)
 
+        self.worker = None
+
     def browse(self):
         fn, _ = QFileDialog.getOpenFileName(
             self, "เลือกไฟล์พาสปอร์ต", "", "Images (*.jpg *.jpeg *.png *.tif *.tiff)"
         )
-        if fn: self.start_ocr(fn)
+        if fn:
+            self.start_ocr(fn)
 
     def start_ocr(self, path: str):
+        if not Path(path).exists():
+            QMessageBox.warning(self, "File not found", f"ไม่พบไฟล์:\n{path}")
+            return
+        if self.worker and self.worker.isRunning():
+            QMessageBox.information(self, "Processing", "กำลังประมวลผลไฟล์ก่อนหน้าอยู่…")
+            return
+
         self.status.setText(f"OCR… {path}")
         self.output.clear()
+        self.btn_browse.setEnabled(False)
+        self.drop.setEnabled(False)
+
         self.worker = OCRWorker(path)
         self.worker.done.connect(self.on_ocr_done)
         self.worker.start()
 
     def on_ocr_done(self, data: dict):
         self.status.setText("Done.")
+        self.btn_browse.setEnabled(True)
+        self.drop.setEnabled(True)
+
         self.output.setPlainText(json.dumps(data, ensure_ascii=False, indent=2))
-        if "error" in data:
-            QMessageBox.warning(self, "OCR error", data["error"])
+        if "error" in data and data["error"]:
+            QMessageBox.warning(self, "OCR error", str(data["error"]))
 
 def main():
     app = QApplication(sys.argv)

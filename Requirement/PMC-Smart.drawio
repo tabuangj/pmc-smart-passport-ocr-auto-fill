@@ -1,0 +1,333 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
+  <diagram name="หน้า-1" id="skN9GNE9noVV9uB_l6VN">
+    <mxGraphModel dx="3190" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;PMC- Smart - Passport OCR Auto fill | Operation Description&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" width="750" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-3" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="1090" height="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry width="1090" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-5" value="&lt;b&gt;Operation&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;fontColor=#ffffff;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-4">
+          <mxGeometry width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-6" value="&lt;b&gt;Operation Behavior&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;fontColor=#ffffff;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-4">
+          <mxGeometry x="150" width="290" height="40" as="geometry">
+            <mxRectangle width="290" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-7" value="&lt;b&gt;System Operation&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#006EAF;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;fontColor=#ffffff;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-4">
+          <mxGeometry x="440" width="650" height="40" as="geometry">
+            <mxRectangle width="650" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="40" width="1090" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-9" value="1.Initial Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-8">
+          <mxGeometry width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-10" value="User ทำการเปิด Program" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-8">
+          <mxGeometry x="150" width="290" height="80" as="geometry">
+            <mxRectangle width="290" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-11" value="เมื่อ Program ถูกเปิดขึ้นระบบจะแสดง ปุ่ม Upload รูปภาพ และช่องสำหรับ Drag and drop" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-8">
+          <mxGeometry x="440" width="650" height="80" as="geometry">
+            <mxRectangle width="650" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="120" width="1090" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-13" value="2.Upload Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-12">
+          <mxGeometry width="150" height="330" as="geometry">
+            <mxRectangle width="150" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-14" value="User ทำการ Upload หรือ ลากไฟล์ภาพมาวาง&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-12">
+          <mxGeometry x="150" width="290" height="330" as="geometry">
+            <mxRectangle width="290" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-15" value="หลังจาก User ทำการการ Upload file ภาพ หรือลากไฟล์ภาพมาวาง&lt;br&gt;&lt;br&gt;Step 1 ระบบจะทำการตรวจสอบประเภทของ File ว่าเป็นไฟล์รูปภาพตามที่กำหนดดังต่อไปนี้&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a.jpg&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b.png&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c.jpeg&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d.pdf&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;e.heic&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;f.heif&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;IF Then&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;User&amp;nbsp; Upload รูปภาพตามที่ระบบกำหนดระบบจะทำงานต่อใน Step 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Else&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Then&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;User ไม่ได้ Upload รูปภาพตามที่ระบบกำหนดระบบจะแสดง Pop up error message &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(MSGERR000001 : ระบบไม่รองประเภทของไฟล์ที่ Upload)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-12">
+          <mxGeometry x="440" width="650" height="330" as="geometry">
+            <mxRectangle width="650" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="450" width="1090" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-20">
+          <mxGeometry width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-22" value="User กด &quot;OK&quot; เพื่อทำ Step 1 อีกครั้ง" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-20">
+          <mxGeometry x="150" width="290" height="80" as="geometry">
+            <mxRectangle width="290" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-23" value="เมื่อ User กด &quot;OK&quot; ระบบจะกลับไปสู่ Initial Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-20">
+          <mxGeometry x="440" width="650" height="80" as="geometry">
+            <mxRectangle width="650" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="530" width="1090" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-49">
+          <mxGeometry width="150" height="610" as="geometry">
+            <mxRectangle width="150" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-49">
+          <mxGeometry x="150" width="290" height="610" as="geometry">
+            <mxRectangle width="290" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-52" value="&lt;div style=&quot;text-align: left;&quot;&gt;Step 2&amp;nbsp; ระบบจะทำการอ่านรูปภาพด้วย OCR และนำข้อมูลที่อ่านได้มาแสดงบนหน้าจอ&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;โดยจะแสดงข้อมูลดังต่อไปนี้&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.Type&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.Country Code&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.Passport No.&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4.Surname&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5.Title / Name&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;6.Nationality&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;7.Date of Birth&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;8.Sex&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;9.Date of issue&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;10.Date of Expiry&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;IF then&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ระบบอ่านข้อมูลได้ครบทุก Variable จะเก็บข้อมูลในรูปแบบของ Object ตามตัวอย่างนี้&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;text-align: left; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;type : &quot;x.1.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;countryCode&amp;nbsp;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;x.3.x&quot;,&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;passportNo : &quot;x.9.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;surName : &quot;x.255.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;titleName : &quot;x.255.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nationality : &quot;x.255.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;dateOfBirth : ddMMyyyy,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;sex : &quot;x.1.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;dateOfIssue :&amp;nbsp;ddMMyyyy,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;dateOfExpiry&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ddMMyyyy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;/div&gt;&lt;div&gt;Else then&lt;br&gt;ระบบไม่สามารถอ่านข้อมูลได้&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;จะแสดง Pop up error message&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(MSGERR000002 : ระบบไม่สามารถอ่านข้อมูลจากรูปภาพได้ กรุณา Upload รูปใหม่อีกครั้ง)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-49">
+          <mxGeometry x="440" width="650" height="610" as="geometry">
+            <mxRectangle width="650" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="1140" width="1090" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-53">
+          <mxGeometry width="150" height="70" as="geometry">
+            <mxRectangle width="150" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-55" value="User กด &quot;OK&quot; เพื่อทำ Step 1 อีกครั้ง" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-53">
+          <mxGeometry x="150" width="290" height="70" as="geometry">
+            <mxRectangle width="290" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-56" value="&lt;span style=&quot;&quot;&gt;เมื่อ User กด &quot;OK&quot; ระบบจะกลับไปสู่ Initial Mode&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-53">
+          <mxGeometry x="440" width="650" height="70" as="geometry">
+            <mxRectangle width="650" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="1210" width="1090" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-70" value="3.Auto fill Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-69">
+          <mxGeometry width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-69">
+          <mxGeometry x="150" width="290" height="80" as="geometry">
+            <mxRectangle width="290" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-72" value="Step 3 ระบบ ทำการเอาข้อมูลจาก Object ส่งและ Request API ไปที่ Extension (Manifest V3) ของ Web browser และทำงานต่อใน Operation : Extension Mode และทำงานต่อใน Step 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-69">
+          <mxGeometry x="440" width="650" height="80" as="geometry">
+            <mxRectangle width="650" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="1290" width="1090" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-74" value="4.Extension Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-73">
+          <mxGeometry width="150" height="370" as="geometry">
+            <mxRectangle width="150" height="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-75" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-73">
+          <mxGeometry x="150" width="290" height="370" as="geometry">
+            <mxRectangle width="290" height="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-76" value="Step 4 เมื่อมีการเรียกใช้งาน API จาก Local (Auto fill Mode) ระบบจะทำการดึงข้อมูล Fill และแปลงข้อมูลเพื่อนำไปใช้สำหรับกรอกบน Web browser รูปแบบของ Variable ที่จะแปลงและเรียกใช้ต้องเป็น InputName ของ textbox&lt;br&gt;&lt;br&gt;&lt;div&gt;ตัวอย่าง&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;type : &quot;x.1.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;countryCode&amp;nbsp;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;x.3.x&quot;,&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;passportNo : &quot;x.9.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;surName : &quot;x.255.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;titleName : &quot;x.255.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nationality : &quot;x.255.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;dateOfBirth : ddMMyyyy,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;sex : &quot;x.1.x&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;dateOfIssue :&amp;nbsp;ddMMyyyy,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;dateOfExpiry&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ddMMyyyy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-73">
+          <mxGeometry x="440" width="650" height="370" as="geometry">
+            <mxRectangle width="650" height="370" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-144" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-3">
+          <mxGeometry y="1660" width="1090" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-145" value="5.Clear Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-144">
+          <mxGeometry width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-146" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-144">
+          <mxGeometry x="150" width="290" height="80" as="geometry">
+            <mxRectangle width="290" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-147" value="เมื่อระบบทำการ Auto Fill แล้ว ระบบจะทำการ Clear cache&amp;nbsp; และกลับสู่ Initial Mode" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=top;align=left;" vertex="1" parent="e6U6tXeTrw6nEGYZG9Uv-144">
+          <mxGeometry x="440" width="650" height="80" as="geometry">
+            <mxRectangle width="650" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-84" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-85" target="e6U6tXeTrw6nEGYZG9Uv-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-85" value=".JPG" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="250" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-84" target="e6U6tXeTrw6nEGYZG9Uv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-92" target="e6U6tXeTrw6nEGYZG9Uv-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-92" value="Upload Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-93" target="e6U6tXeTrw6nEGYZG9Uv-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-102" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e6U6tXeTrw6nEGYZG9Uv-100">
+          <mxGeometry x="-0.2" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-93" target="e6U6tXeTrw6nEGYZG9Uv-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-110" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e6U6tXeTrw6nEGYZG9Uv-104">
+          <mxGeometry x="-0.2706" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-93" value="File Corretion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-95" target="e6U6tXeTrw6nEGYZG9Uv-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-95" value="Initial Mode&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-99" target="e6U6tXeTrw6nEGYZG9Uv-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-99" value="Error message" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-105" target="e6U6tXeTrw6nEGYZG9Uv-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-105" target="e6U6tXeTrw6nEGYZG9Uv-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-105" value="OCR Progress" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-106" target="e6U6tXeTrw6nEGYZG9Uv-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-108" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e6U6tXeTrw6nEGYZG9Uv-107">
+          <mxGeometry x="-0.6667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-106" target="e6U6tXeTrw6nEGYZG9Uv-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-131" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e6U6tXeTrw6nEGYZG9Uv-112">
+          <mxGeometry x="-0.1667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-106" value="Information corretion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="710" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-111" target="e6U6tXeTrw6nEGYZG9Uv-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-111" target="e6U6tXeTrw6nEGYZG9Uv-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-111" value="Prepare Object" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-113" target="e6U6tXeTrw6nEGYZG9Uv-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="900" />
+              <mxPoint x="-430" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-113" value="Response" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-117" target="e6U6tXeTrw6nEGYZG9Uv-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-117" value="Auto fill Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-119" target="e6U6tXeTrw6nEGYZG9Uv-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-119" value="Browser extension" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1150" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-121" target="e6U6tXeTrw6nEGYZG9Uv-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1449.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-121" value="Auto fill on screen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-127" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-128" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-129" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="990" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-130" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-135" target="e6U6tXeTrw6nEGYZG9Uv-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-135" value="Loading screen" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-139" target="e6U6tXeTrw6nEGYZG9Uv-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-139" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6U6tXeTrw6nEGYZG9Uv-149" target="e6U6tXeTrw6nEGYZG9Uv-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-149" value="Clear Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-150" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e6U6tXeTrw6nEGYZG9Uv-152" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1450" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

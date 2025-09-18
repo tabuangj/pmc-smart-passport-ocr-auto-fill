@@ -116,3 +116,4 @@ def extract_mrz(image_path: str, debug=False) -> dict:
 if __name__ == "__main__":
     TEST_IMG = r"C:\Users\tabua\OneDrive\Pictures\73448 - Copy.jpg"
     print(extract_mrz(TEST_IMG, debug=True))
+
